@@ -1,2 +1,0 @@
-# amplifyapp
-for study
